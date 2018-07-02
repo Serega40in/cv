@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Montserrat';
+	src: url('Montserrat-Light.eot')/*tpa=https://demo.kautilyalawcollege.com/paul-gatter/assets/fonts/Montserrat-Light.eot*/;
+	src: url('Montserrat-Light.eot-#iefix')/*tpa=https://demo.kautilyalawcollege.com/paul-gatter/assets/fonts/Montserrat-Light.eot?#iefix*/ format('embedded-opentype'),
+		url('Montserrat-Light.woff')/*tpa=https://demo.kautilyalawcollege.com/paul-gatter/assets/fonts/Montserrat-Light.woff*/ format('woff'),
+		url('Montserrat-Light.ttf')/*tpa=https://demo.kautilyalawcollege.com/paul-gatter/assets/fonts/Montserrat-Light.ttf*/ format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
